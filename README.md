@@ -11,7 +11,7 @@ there is currently nothing here but soon a simple demo will be put up
 WE ARE BADLY IN NEED OF HELP
 please comment if you can help with:
 
-guns: models textures and animations
+guns: models, textures and animations
 
 music
 
